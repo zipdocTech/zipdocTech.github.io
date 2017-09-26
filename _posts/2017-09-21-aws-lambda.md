@@ -15,18 +15,16 @@ image: /files/covers/aws-lambda-apigate-dynamodb.jpg
 
 일단 이렇게 만들생각을하고 일단 -ㅅ-...실행
 
-
-<img src="/files/2017-09-21-aws-lambda-1.png" class="hcenter">
+![람다1](/files/2017-09-21-aws-lambda-1.png)
 
 ## AWS Services -> DynamoDB 테이블 만들기
 
-<img src="/files/2017-09-21-aws-lambda-2.png" class="hcenter">
-
-
+![람다2](/files/2017-09-21-aws-lambda-2.png)
 
 ## AWS Services 테이블설계
 
-<img src="/files/2017-09-21-aws-lambda-3.png" class="hcenter">
+![람다3](/files/2017-09-21-aws-lambda-3.png)
+
 nosql방식이라 일단 정렬키는 잘몰라서 기본키베이스로 설계를 했다.
 ```
 {
@@ -43,8 +41,7 @@ nosql방식이라 일단 정렬키는 잘몰라서 기본키베이스로 설계�
 
 
 ### AWS Lambda 함수 생성
-<img src="/files/2017-09-21-aws-lambda-4.png" class="hcenter">
 
-
+![람다4](/files/2017-09-21-aws-lambda-4.png)
 
 추후 정리해서 다시 적어야겠다;
