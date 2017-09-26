@@ -31,7 +31,7 @@ nosql방식이라 일단 정렬키는 잘몰라서 기본키베이스로 설계�
 ```
 {
     "UID" : "",
-    "ZID" ; "",
+    "ZID" : "",
     "PARTNER_ID" : "",
     "LONGTITUDE" : "",
     "LATITUDE" : "",
@@ -43,7 +43,8 @@ nosql방식이라 일단 정렬키는 잘몰라서 기본키베이스로 설계�
 
 
 ### AWS Lambda 함수 생성
+<img src="/files/2017-09-21-aws-lambda-4.png" class="hcenter">
 
 
-<img src="/files/2017-09-21-aws-lambda-3.png" class="hcenter">
+
 추후 정리해서 다시 적어야겠다;
